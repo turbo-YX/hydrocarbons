@@ -1,15 +1,8 @@
-# hydrocarbons
+# Hydrocarbons
 Hydrocarbons are bad
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.myDiv {
-  border: 5px outset red;
-  background-color: lightblue;    
-  text-align: center;
-}
-</style>
 <title>
 </title>
 </head>
