@@ -3,12 +3,8 @@ Hydrocarbons are bad
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-</title>
 </head>
 <body>
-<div style="background-image: url('http://www.clker.com/cliparts/0/F/G/Z/d/m/light-blue-flask-lab-md.png');">
-<h1><b><i><u><div class="myDiv">Fridges-Hydrocarbon</div></u></i></b></h1>
 
 <h2 style="color:#FF0000";><b>Did you know that hydrocarbon is the gas in our fridges???</b></h2>
 
