@@ -1,10 +1,19 @@
-# Hydrocarbons
-Hydrocarbons are bad
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+</style>
+<title>
+</title>
 </head>
 <body>
+<div style="background-image: url('http://www.clker.com/cliparts/0/F/G/Z/d/m/light-blue-flask-lab-md.png');">
+<h1><b><i><u><div class="myDiv">Fridges-Hydrocarbon</div></u></i></b></h1>
 
 <h2 style="color:#FF0000";><b>Did you know that hydrocarbon is the gas in our fridges???</b></h2>
 
@@ -25,7 +34,7 @@ Hydrocarbons are bad
 <img src="https://scied.ucar.edu/sites/default/files/images/large_image_for_image_content/c3h8_molecule_900x600.jpg" width="75%" height="75%">
 
 <h3>Where are they commonly found<h3>
-<h4>In crude oils, coal, nautral gas and other important energy sources.. As crude oil made of organic matter, it consits hydrogen and carbon bond atoms. They are also found in many plants as plants are organic. Hydrocarbons are the most widely used organic compound on the planet, and the main component of VOC(Volatile Organic Content).
+<h4>in crude oils, coal, nautral gas and other important energy sources.. As crude oil made of organic matter, it consits hydrogen and carbon bond atoms. They are also found in many plants as plants are organic. Hydrocarbons are the most widely used organic compound on the planet, and the main component of VOC(Volatile Organic Content).
 The larger the hydrocarbons, the thicker the compound.</h4>
 
 <h3 style="color:#FF0000";><b>Know you know what they are, lets see what they do the the environment.</b></h3>
@@ -114,8 +123,10 @@ The larger the hydrocarbons, the thicker the compound.</h4>
 <br>
 <h3>blue = hydrogen<br>black = carbon<br>line = single bond<h3>
 
+<h3 style="color:#FF0000";>Instead of hydrocarbons (hydrogen and carbon), we should consider flurocarbons (fluoride and carbon) which is more friendly to the environment then hydrocarbons.</h3>
 
-
-</div>
+<h4>Fluoroalkanes are mostly dormant and non-toxic.
+As they contain no chlorine or bromine atoms, and they are sometimes used as replacements for ozone-depleting chemicals, fluoroalkanes are not ozone depleting. The term fluorocarbon is used rather loosely to include any chemical containing fluorine and carbon, including chlorofluorocarbons, which are ozone depleting. Fluoroalkanes are sometimes confused with fluorosurfactants, which significantly bioaccumulate.<h4>
 </body>
 </html>
+
