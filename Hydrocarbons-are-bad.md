@@ -25,7 +25,7 @@ Hydrocarbons are bad
 <img src="https://scied.ucar.edu/sites/default/files/images/large_image_for_image_content/c3h8_molecule_900x600.jpg" width="75%" height="75%">
 
 <h3>Where are they commonly found<h3>
-<h4>in crude oils, coal, nautral gas and other important energy sources.. As crude oil made of organic matter, it consits hydrogen and carbon bond atoms. They are also found in many plants as plants are organic. Hydrocarbons are the most widely used organic compound on the planet, and the main component of VOC(Volatile Organic Content).
+<h4>In crude oils, coal, nautral gas and other important energy sources.. As crude oil made of organic matter, it consits hydrogen and carbon bond atoms. They are also found in many plants as plants are organic. Hydrocarbons are the most widely used organic compound on the planet, and the main component of VOC(Volatile Organic Content).
 The larger the hydrocarbons, the thicker the compound.</h4>
 
 <h3 style="color:#FF0000";><b>Know you know what they are, lets see what they do the the environment.</b></h3>
